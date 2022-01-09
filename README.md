@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science with Python
 - 💞️ I’m looking to collaborate on "coding for water management in agriculture"
-- 📫 How to reach me: sohailwaqasrana@gmail.com
+- 📫 How to reach me: sohailwaqasrana@gmail.com or twitter.com/sohailwaqasrana 
 
 <!---
 Engr-Sohail/Engr-Sohail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
